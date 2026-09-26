@@ -1,0 +1,34 @@
+name: Crawl public PCB links
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: pcb-indexer
+  cancel-in-progress: false
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scan and validate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python crawler.py --max-repos 250 --max-requests 1500
+      - name: Commit cursor and links
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/pcb_links.jsonl data/github_links.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update PCB link index'
+            git push
+          fi
