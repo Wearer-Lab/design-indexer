@@ -2,7 +2,7 @@ name: Resolve BoardRepo GitHub links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '4-59/5 * * * *'
 permissions:
   contents: write
 concurrency:
@@ -19,8 +19,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Resolve up to 300 source links
-        run: python boardrepo.py --max-pages 300
+      - name: Resolve up to 200 source links
+        run: python boardrepo.py --max-pages 200
       - name: Save BoardRepo progress
         run: |
           git config user.name 'github-actions[bot]'
