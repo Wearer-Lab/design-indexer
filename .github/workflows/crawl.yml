@@ -2,7 +2,7 @@ name: Crawl public PCB links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '2-59/5 * * * *'
 permissions:
   contents: write
 concurrency:
@@ -22,7 +22,7 @@ jobs:
       - name: Scan and validate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python crawler.py --max-repos 250 --max-requests 1500
+        run: python crawler.py --max-repos 20 --max-requests 70
       - name: Commit cursor and links
         run: |
           git config user.name 'github-actions[bot]'
