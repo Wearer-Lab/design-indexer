@@ -1,5 +1,9 @@
 name: Resolve BoardRepo GitHub links
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/boardrepo.yml'
   workflow_dispatch:
   schedule:
     - cron: '4-59/5 * * * *'
