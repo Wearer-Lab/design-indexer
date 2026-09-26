@@ -1,16 +1,12 @@
 name: Resolve BoardRepo GitHub links
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/boardrepo.yml'
   workflow_dispatch:
   schedule:
     - cron: '4-59/5 * * * *'
 permissions:
   contents: write
 concurrency:
-  group: pcb-indexer-writes
+  group: design-indexer-boardrepo
   cancel-in-progress: false
 jobs:
   resolve:
@@ -32,5 +28,10 @@ jobs:
           git add data/boardrepo_links.txt data/boardrepo_state.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update BoardRepo GitHub links'
-            git push
+            for attempt in 1 2 3 4 5; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" -eq 5 ]; then exit 1; fi
+              sleep 2
+            done
           fi
