@@ -1,0 +1,32 @@
+name: Resolve BoardRepo GitHub links
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: pcb-indexer-writes
+  cancel-in-progress: false
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Resolve up to 300 source links
+        run: python boardrepo.py --max-pages 300
+      - name: Save BoardRepo progress
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/boardrepo_links.txt data/boardrepo_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update BoardRepo GitHub links'
+            git push
+          fi
