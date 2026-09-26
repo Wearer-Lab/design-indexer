@@ -1,16 +1,12 @@
 name: Crawl public PCB links
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/crawl.yml'
   workflow_dispatch:
   schedule:
     - cron: '2-59/5 * * * *'
 permissions:
   contents: write
 concurrency:
-  group: pcb-indexer-writes
+  group: design-indexer-pcb
   cancel-in-progress: false
 jobs:
   crawl:
@@ -26,7 +22,7 @@ jobs:
       - name: Scan and validate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python crawler.py --max-repos 20 --max-requests 70
+        run: python crawler.py --max-repos 10 --max-requests 35
       - name: Commit cursor and links
         run: |
           git config user.name 'github-actions[bot]'
@@ -34,5 +30,10 @@ jobs:
           git add data/state.json data/pcb_links.jsonl data/github_links.txt
           if ! git diff --cached --quiet; then
             git commit -m 'Update PCB link index'
-            git push
+            for attempt in 1 2 3 4 5; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" -eq 5 ]; then exit 1; fi
+              sleep 2
+            done
           fi
