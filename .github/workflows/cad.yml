@@ -1,0 +1,43 @@
+name: Crawl public CAD and BIM links
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/cad.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '1-59/5 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: design-indexer-cad
+  cancel-in-progress: false
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scan public CAD and BIM files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python cad_crawler.py --max-repos 12 --max-requests 35
+      - name: Commit CAD cursor and links
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/cad_state.json data/cad_links.jsonl data/cad_links.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update CAD link index'
+            for attempt in 1 2 3 4 5; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" -eq 5 ]; then exit 1; fi
+              sleep 2
+            done
+          fi
