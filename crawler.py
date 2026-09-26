@@ -145,7 +145,7 @@ def run(args):
     processed = 0
     try:
         while processed < args.max_repos and client.left > 5:
-            if state['pending'] is None:
+            if not state['pending']:
                 batch = client.get('/repositories?since=' + str(state['since']) + '&per_page=100')
                 if not batch:
                     break
