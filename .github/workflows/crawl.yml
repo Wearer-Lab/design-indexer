@@ -30,6 +30,8 @@ jobs:
           git add data/state.json data/pcb_links.jsonl data/github_links.txt
           if ! git diff --cached --quiet; then
             git commit -m 'Update PCB link index'
+            git status --short
+            git stash push --include-untracked --quiet
             for attempt in 1 2 3 4 5; do
               git pull --rebase origin main
               if git push origin HEAD:main; then break; fi
