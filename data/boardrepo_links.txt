@@ -5521,6 +5521,9 @@ https://github.com/vintlabs/esp32-zip
 https://github.com/vintlabs/mcp9600-module
 https://github.com/vintlabs/usb-uart-microusb
 https://github.com/violeteternity/beagleboneloraadapter
+https://github.com/vionqaro/andromeda
+https://github.com/vionqaro/antlia
+https://github.com/vionqaro/apus
 https://github.com/vipqualitypost/lemon-pepper-stepper
 https://github.com/virtual-machinist/double-electronic-load
 https://github.com/virtualagc/agc_hardware
