@@ -2,6 +2,7 @@
 """Resolve BoardRepo public project pages to their linked GitHub repositories."""
 import argparse
 import json
+import os
 import re
 import subprocess
 import time
@@ -121,7 +122,11 @@ def run(destination, state_file, limit):
     temp = output.with_suffix('.tmp')
     temp.write_text(''.join(url + '\n' for url in sorted(set(resolved.values()))))
     temp.replace(output)
-    print(f'BoardRepo: {len(resolved)} project pages resolved; {len(unresolved)} without a source link; {len(projects)} listed; {len(todo)} checked this run')
+    remaining = len([url for url in projects if url not in resolved and url not in unresolved])
+    if os.environ.get('GITHUB_OUTPUT'):
+        with open(os.environ['GITHUB_OUTPUT'], 'a') as output_status:
+            output_status.write(f'needs_more={str(remaining > 0).lower()}\nremaining={remaining}\n')
+    print(f'BoardRepo: {len(resolved)} project pages resolved; {len(unresolved)} without a source link; {len(projects)} listed; {len(todo)} checked this run; {remaining} remaining')
 
 
 if __name__ == '__main__':
