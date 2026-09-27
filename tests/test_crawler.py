@@ -2,10 +2,12 @@ import unittest
 import tempfile
 import json
 import os
+import io
+import urllib.error
 from pathlib import Path
 from unittest.mock import patch
 from types import SimpleNamespace
-from crawler import detect, run
+from crawler import Client, detect, run
 
 
 class DetectionTest(unittest.TestCase):
@@ -15,6 +17,14 @@ class DetectionTest(unittest.TestCase):
         self.assertEqual(detect('test.brd', b'<?xml version="1.0"?><eagle version="9">'), 'Eagle')
         self.assertIsNone(detect('test.brd', b'random'))
         self.assertEqual(detect('test.PcbDoc', bytes.fromhex('d0cf11e0a1b11ae1') + b'payload'), 'Altium')
+
+
+class BlockedRepositoryTest(unittest.TestCase):
+    def test_access_blocked_does_not_stall_cursor(self):
+        exc = urllib.error.HTTPError('https://api.github.com/repos/reinh/dm', 403,
+                                     'Forbidden', {}, io.BytesIO(b'{"message":"Repository access blocked"}'))
+        with patch('crawler.urllib.request.urlopen', side_effect=exc):
+            self.assertIsNone(Client('test', 5).get('/repos/reinh/dm'))
 
 
 class PageBoundaryTest(unittest.TestCase):
