@@ -52,6 +52,13 @@ class Client:
                     body = resp.read()
                     return body if binary else json.loads(body)
             except urllib.error.HTTPError as exc:
+                if exc.code == 403:
+                    try:
+                        message = json.loads(exc.read()).get('message', '')
+                    except (ValueError, UnicodeDecodeError):
+                        message = ''
+                    if message.lower() == 'repository access blocked':
+                        return None
                 if exc.code in (404, 409, 422):
                     return None
                 if exc.code in (403, 429) and attempt < 2:
