@@ -5375,6 +5375,7 @@ https://github.com/tudsat-rocket/arming-board
 https://github.com/tuna-f1sh/whitterm-wt220
 https://github.com/tungstenlightbulb/5ghz
 https://github.com/tunkarlu/bq76952-multi-channel-leds-array-monitoring-pcb
+https://github.com/turboedge/speedyboards
 https://github.com/turtureanu/led-glasses
 https://github.com/turtureanu/termite-keyboard
 https://github.com/tuwrraphael/inkjet-printer
