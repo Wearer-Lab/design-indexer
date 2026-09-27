@@ -8,6 +8,7 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 permissions:
+  actions: write
   contents: write
 concurrency:
   group: design-indexer-boardrepo
@@ -24,6 +25,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Resolve up to 200 source links
+        id: resolve
         run: python boardrepo.py --max-pages 200
       - name: Save BoardRepo progress
         run: |
@@ -41,3 +43,15 @@ jobs:
               sleep 2
             done
           fi
+      - name: Continue automatically
+        if: ${{ success() && steps.resolve.outputs.needs_more == 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl --fail-with-body --silent --show-error --retry 3 --retry-delay 5 \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/boardrepo.yml/dispatches" \
+            -d '{"ref":"main"}'
