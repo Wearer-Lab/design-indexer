@@ -57,29 +57,44 @@ https://github.com/89mods/padauk-pgm
 https://github.com/89mods/ym3812-dual-synth
 https://github.com/999matej999/fiit-esp32-kit
 https://github.com/9elements/oskar
+https://github.com/Biacco42/Ergo42
 https://github.com/BlueSCSI/BlueSCSI-v2
 https://github.com/Chrismettal/EleLab_v2
 https://github.com/CoretechR/SPINC
+https://github.com/DoImant/TP4056-Power-Path-PCB
 https://github.com/Domesday86/DomesdayDuplicator
+https://github.com/FrameworkComputer/InputModules
+https://github.com/Franzininho/franzininho-diy-board
 https://github.com/GEIGEIGEIST/KLOR
 https://github.com/Gilbert-box/UP-Down-Display-Counter-with-4029
 https://github.com/GlasgowEmbedded/glasgow
 https://github.com/Green-bms/SmartBMS
 https://github.com/GuitarML/FunBox
 https://github.com/HandHeldLegend/hoja-dongle-hw
+https://github.com/Hanqaqa/PCB_Business_Card
+https://github.com/IvDm/Z-probe-on-smd-resistors-2512
 https://github.com/Jcparkyn/dpoint
 https://github.com/JesusFreke/lalboard
 https://github.com/KCORES/KCORES-FlexibleLOM-Adapter
 https://github.com/KCORES/OCP2PCIe
 https://github.com/LNH-team/Lost-NDS-TV
+https://github.com/Lotlab/Lot60-BLE-Keyboard
+https://github.com/Maniek19-ENG/sensor-pcb
 https://github.com/Modos-Labs/Glider
+https://github.com/Nicell/epaper-102
 https://github.com/No0ne/ps2x2pico
 https://github.com/RadioThermal/RadioThermal_Soldering_OSHW
 https://github.com/RasmusKoit/pipar
+https://github.com/Redherring32/TinyTendo
 https://github.com/SasaKaranovic/ESP-IoT-Dimmer
 https://github.com/SensorsIot/SuperPower
+https://github.com/SiBowald/ecg-pcb-business-card
+https://github.com/SimonMerrett/SOICbite
+https://github.com/Sparkr-tech/opentama
 https://github.com/Staacks/gbinterceptor
 https://github.com/Tropaion/ZigBee_SmartMeter_Reader
+https://github.com/UzixLS/mist1010-board
+https://github.com/WibblyGhost/southerly-split-keeb
 https://github.com/a-little-wifi/tinyriser
 https://github.com/a5632645/ch32v305-uac2
 https://github.com/a6c0424fa083/lightcontroller_pcb
@@ -508,6 +523,7 @@ https://github.com/azhizhinov/sepr34
 https://github.com/azmat-bilal/bldc_motor_controller_pcb
 https://github.com/azonenberg/freesample
 https://github.com/azonenberg/integralstick
+https://github.com/azonenberg/starshipraider
 https://github.com/azoninc/doorman
 https://github.com/b00lduck/esp32-audioplayer
 https://github.com/b1jam1-74/projet_ruche_groupe_1
@@ -530,6 +546,7 @@ https://github.com/badbird5907/deltaboard
 https://github.com/badbird5907/thermal-camera
 https://github.com/badgeteam/hackerhotel-2024-hardware
 https://github.com/badjeff/paw3395-pcb
+https://github.com/badjeff/pmw3610-pcb
 https://github.com/bajacali/smart-home
 https://github.com/baldengineer/addohms
 https://github.com/baldengineer/baldsense_sensor_feather_wing
@@ -579,6 +596,7 @@ https://github.com/beaupre-circuit-design/23xx-adapter
 https://github.com/beaupre-circuit-design/c64-xum1541
 https://github.com/becauseimclever/breakoutboards
 https://github.com/beeevolved/bittyaxe
+https://github.com/beekeeb/crkbd-glp
 https://github.com/beekeeb/piantor
 https://github.com/beepnl/measurement-system-v2
 https://github.com/bellssgit/imx662_module_for_raspberry_pi
@@ -984,6 +1002,7 @@ https://github.com/circuit-digest/wearable-air-quality-pendant
 https://github.com/circuitdojo/nrf9151-feather
 https://github.com/circuitmonkey/epoch-2
 https://github.com/circuitscout/hardware
+https://github.com/citrus3000psi/SD2SP2
 https://github.com/city41/rotary-bobble
 https://github.com/ckarcz/electronics
 https://github.com/ckflight/fmcw_radar
@@ -1008,6 +1027,7 @@ https://github.com/cmumford/cap-touch-starter
 https://github.com/cnckitchen/cetusmk3_rrf
 https://github.com/cncnoob/universal-eeprom-programmer
 https://github.com/cnicolasgr/stm32_e-reader
+https://github.com/cnlohr/cnixxi
 https://github.com/cnlohr/cnpihats
 https://github.com/cnlohr/esp32_tracker
 https://github.com/cnlohr/kelvindmmwifi
@@ -1083,6 +1103,7 @@ https://github.com/crate3d/closed-loop-stepper-tmc2130-as5048a
 https://github.com/crawford/poe
 https://github.com/crazy-hair/roachslimes
 https://github.com/creare-com/opentact
+https://github.com/crehmann/TPS42
 https://github.com/creid89/ece411_group_project
 https://github.com/crexodon/led-window-matrix-neo
 https://github.com/crides/steno
@@ -1230,6 +1251,7 @@ https://github.com/davines123/swissterium
 https://github.com/davisjp1822/analog_persistence
 https://github.com/dawson-hep/opentrig
 https://github.com/dawsonjon/101things
+https://github.com/dawsonjon/PicoRX
 https://github.com/dawsonjon/openxcvr
 https://github.com/daxxn/benchyreloaded
 https://github.com/dbking77/robojoy_pcb
@@ -1699,6 +1721,7 @@ https://github.com/etchedpixels/mini11
 https://github.com/ethansousaprojects/cbr_custom_cluster
 https://github.com/etherkit/openbeacon3
 https://github.com/etienne248/bluetooth_ultrasonic_speaker
+https://github.com/eugeniobaglieri/LoRa1276-breakout-board
 https://github.com/eugmes/ax5243-test-board
 https://github.com/eulerlab/open-visual-stimulator
 https://github.com/eurovibes/belegt
@@ -2153,6 +2176,7 @@ https://github.com/hacker-fab/phoenix
 https://github.com/hackercomputercompany/teacup
 https://github.com/hacklabkyiv/openox-pcb
 https://github.com/hackthisphone/0x0a
+https://github.com/hackup/Pi1541io
 https://github.com/hackzone/cz19-badge
 https://github.com/hadn69/p69xx-breakout
 https://github.com/hadoopmarc/gps-controlled-lcd-shutter
@@ -2694,6 +2718,7 @@ https://github.com/joshbressers/badge
 https://github.com/jotego/jt49
 https://github.com/joustava/kicad-template-arduino-uno-shield
 https://github.com/joysfera/esp8266-infopanel
+https://github.com/jpconstantineau/NRF52-Board
 https://github.com/jpconstantineau/ergotravel
 https://github.com/jpewdev/vusb-breakout
 https://github.com/jppang/esp32_micropython_lvgl_st7789
@@ -2811,6 +2836,7 @@ https://github.com/kcuzner/led-watch
 https://github.com/kdumontnu/icezum
 https://github.com/kehindejanetolaniyi23/home-automation-kicad-work-in-progress
 https://github.com/keionbis/ucm4
+https://github.com/keirf/pcb-projects
 https://github.com/kekyo/pixy
 https://github.com/kellerkindt/bluepill_sensor
 https://github.com/kelogs/awreflow3
@@ -2830,6 +2856,7 @@ https://github.com/kevinlutzer/room-environment-monitor
 https://github.com/kevinlutzer/strato-connect
 https://github.com/keyaan-07/rp2040-mini-sdr
 https://github.com/keyboard-magpie/crkbd
+https://github.com/keyboard-magpie/minimal-fpc-i2c-pcb
 https://github.com/keyzog/kapl
 https://github.com/kgl2001/serialula
 https://github.com/kidmirage/trekulator
@@ -2863,6 +2890,7 @@ https://github.com/klein0r/pcb-arcade-encoder
 https://github.com/klein0r/pcb-rack-temperature-control
 https://github.com/klein0r/pcb-smarter-pi
 https://github.com/klein0r/pcb-ttl-ftdi-esp-adapter
+https://github.com/klein0r/pcb-ws2812-ethernet-controller
 https://github.com/klein0r/pcb-ws2812-wifi-controller
 https://github.com/kleptobot/bike_telemetry
 https://github.com/klesh/pskeeb
@@ -3166,6 +3194,7 @@ https://github.com/madebyitoncek/ktane_irl
 https://github.com/madebyrobq/ortho4x10tkl
 https://github.com/maded2/68000
 https://github.com/maelh/radio-frequency-prototype-boards
+https://github.com/mafe72/27c160-tl866-adapter
 https://github.com/magicninja7/boop
 https://github.com/magicninja7/music-macropad
 https://github.com/magictintin/chriskeyboards
@@ -3173,6 +3202,7 @@ https://github.com/magnuslab/magnus-qpcr
 https://github.com/magnusnordlander/fifty-fifty
 https://github.com/mahdighanati/stm32-plc-1
 https://github.com/mahjongg2/prototype-rhococo
+https://github.com/maikmerten/hx8k-breakout-extension
 https://github.com/maimaixiong/raccoon
 https://github.com/mairas/pi-super-ups
 https://github.com/maithesan/arius80-he
@@ -3284,6 +3314,7 @@ https://github.com/martinberlin/sharp-lv
 https://github.com/martinbloedorn/biohand
 https://github.com/martinribelotta/h730duino
 https://github.com/martinribelotta/h7dragonman
+https://github.com/martinribelotta/imxrt1020-module
 https://github.com/martinribelotta/poncho_fpga
 https://github.com/martinroger/ipodesp32
 https://github.com/martinroger/vxdash
@@ -3309,6 +3340,7 @@ https://github.com/matteliot/dsky_el_replica
 https://github.com/matthew-bon/moon_child
 https://github.com/matthew-yates/mystat
 https://github.com/matthewboeding/gpsboard
+https://github.com/matthewcieplak/super-sixteen
 https://github.com/matthewdias/semi
 https://github.com/matthewlai/wiredhut
 https://github.com/matthiaselectronic/awg_dho8-900
@@ -3398,6 +3430,7 @@ https://github.com/metacollin/kicad-gigalib
 https://github.com/metalmusings/myownethercatdevice
 https://github.com/metalunet/fraise-cad
 https://github.com/metaquantus/camel
+https://github.com/mfolejewski/FEMTO
 https://github.com/mg-5/buck-converter-automotive
 https://github.com/mg-5/usb-c-to-liion-charger
 https://github.com/mgalea/esp32-pn532
@@ -3521,6 +3554,7 @@ https://github.com/mitmedialab/generic-pan-tilt-pcb
 https://github.com/mive82/psa-pcb
 https://github.com/mjbots/fdcanusb
 https://github.com/mjbots/moteus
+https://github.com/mjcourte/neutrik-ethercon-quad-balanced-audio-pcb
 https://github.com/mjculross/teensy-rv-leveling-helper
 https://github.com/mjkloeckner/pwm-driver
 https://github.com/mjuhanne/ikea-fyrtur
@@ -3604,6 +3638,7 @@ https://github.com/mosh-insa-toulouse/2024-2025-4gp-oetham-axellgp
 https://github.com/mosh-insa-toulouse/5iss-gautheron-lagrost
 https://github.com/mossmann/cc11xx
 https://github.com/mossmann/cynthion-hardware
+https://github.com/mossmann/retroreflectors
 https://github.com/mothdotmonster/dipstickrv
 https://github.com/mothdotmonster/ok96
 https://github.com/mothenjoyer69/thundermxm
@@ -3806,6 +3841,7 @@ https://github.com/niw/mfk60
 https://github.com/njdancer/claude-ir
 https://github.com/njh/kicad-ag7300
 https://github.com/njh/modbus-th-sensor
+https://github.com/nkitanov/iaq_board
 https://github.com/nkrackow/singularitysurfer-fpga-lock-in-amplifier
 https://github.com/nmarks99/vango
 https://github.com/nmunnich/mini-dongle
@@ -3836,6 +3872,7 @@ https://github.com/nturacingteam/nturt_kicad
 https://github.com/nturacingteam/nturt_kicad_ep7
 https://github.com/nuclearcat/espflasher
 https://github.com/nuclearfutureslab/ibxii-hardware
+https://github.com/null-ll/basketweave
 https://github.com/null-ll/pinstripe
 https://github.com/nullbodyhere/general-alarm-device
 https://github.com/nullvalue0/wirsa
@@ -4080,6 +4117,7 @@ https://github.com/pedro-seixas/smart-watch
 https://github.com/pedrominatel/esp-rcnow
 https://github.com/pedrominatel/esp32-s2_corebase
 https://github.com/pedrominatel/esp32v3_corebase
+https://github.com/peej/for-science-keyboard
 https://github.com/peej/lumberjack-keyboard
 https://github.com/peej/rosaline-keyboard
 https://github.com/pejo-306/dc-dc-buck-boost
@@ -4204,6 +4242,7 @@ https://github.com/pluggee/r1008
 https://github.com/plushugh/rp2040-kb-starter
 https://github.com/pluskid/keyboards
 https://github.com/plusvic/simplebus2-intercom
+https://github.com/plut0nium/0xB2
 https://github.com/plyalex/openfence
 https://github.com/pmamatis/esp32_waterpump_interface
 https://github.com/pmamatis/naa-measurment-carrier-system
@@ -4225,6 +4264,7 @@ https://github.com/pointcheck/im100_override
 https://github.com/pointhi/kicad-color-schemes
 https://github.com/polaracep/soldering-kits
 https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware
+https://github.com/pollen-robotics/elec_RPI_Robot_HAT
 https://github.com/pollen-robotics/elec_donut
 https://github.com/pollen-robotics/elec_poulpe_2d
 https://github.com/pollen-robotics/elec_poulpe_3d
@@ -4633,6 +4673,7 @@ https://github.com/sadaoikebe/snakeoilxy-ffc
 https://github.com/sadekbaroudi/vik
 https://github.com/sadteeto/buhsat-v0
 https://github.com/safecast/bgeigiecast
+https://github.com/sago35/tinygo-keyboard
 https://github.com/sagsal92/kicad-projects
 https://github.com/saie12/kicad-servo-tester-project
 https://github.com/sakuglumoff/iida-devkit
@@ -4673,6 +4714,7 @@ https://github.com/schlae/cm5-reveng
 https://github.com/schlae/graphics-gremlin
 https://github.com/schlae/gvpsimm
 https://github.com/schlae/pico-dram-tester
+https://github.com/schlae/snark-barker
 https://github.com/schluggi/aiosense
 https://github.com/schmiddey/osat
 https://github.com/schodet/splitty
@@ -4769,6 +4811,7 @@ https://github.com/sharebrained/medusa
 https://github.com/sharpcoder/bbot
 https://github.com/sharst/metaldetector-shield
 https://github.com/shashwtd/boardstorm-x3
+https://github.com/shawnalexsony/Business_Card_PCB
 https://github.com/sheffieldhackspace/balancing-bot
 https://github.com/sheffieldmltracking/retrodetect_bee_track_hardware
 https://github.com/shekharshwetank/breakout_boards
@@ -4854,6 +4897,7 @@ https://github.com/skenhub/2024_robocon_ateam
 https://github.com/skifli/hackpad
 https://github.com/skiselev/easy_z80
 https://github.com/skiselev/isa8_backplane
+https://github.com/skiselev/isa8_eth
 https://github.com/skiselev/micro_8088
 https://github.com/skiselev/omega
 https://github.com/skiselev/radio-86rk
@@ -4923,6 +4967,7 @@ https://github.com/solhuebner/ledbrickhome
 https://github.com/solidwaregit/modular-gp2040-dev-board
 https://github.com/solodros/rf_r1_8-9xu
 https://github.com/solokeys/solo-hw
+https://github.com/solokeys/solo2-hw
 https://github.com/solosky/nfc-emu
 https://github.com/some-pulp/crkbd
 https://github.com/somelucky1/coffeehat
@@ -4967,6 +5012,7 @@ https://github.com/sparrowthenerd/winter-kicad
 https://github.com/spbnick/thermal-spectrum
 https://github.com/spectralvectors/blendermacroboard
 https://github.com/spectraphilic/wsn_e5
+https://github.com/speeduino/Hardware
 https://github.com/spel-uchile/femto-satellite
 https://github.com/spintronik/exadrums-pcb
 https://github.com/spirit532/studio_mic
@@ -5005,6 +5051,7 @@ https://github.com/ssmiao/intel-i210-network-card
 https://github.com/ssnover/atmosensor
 https://github.com/sssata/fluxpad
 https://github.com/sssata/hyku
+https://github.com/sszczep/Cherry-MX-Breakout-Board
 https://github.com/stack-chan/stack-chan
 https://github.com/stackmagic/atmel-programmer
 https://github.com/stahlnow/mixerli
@@ -5019,6 +5066,7 @@ https://github.com/starman3787/btc-split-flap
 https://github.com/starman3787/flightsimbuildb738
 https://github.com/starsurfer78/teensymower-pcbs
 https://github.com/stary2001/my-mesh-nodes
+https://github.com/staticintlucas/goldfish
 https://github.com/staticintlucas/space-invader-280
 https://github.com/statts/siguino
 https://github.com/ste2425/psp-bluetooth
@@ -5054,6 +5102,7 @@ https://github.com/stoicat/timer-with-tm1637-and-arduino
 https://github.com/storskegg/block-jan6418
 https://github.com/strangeparts/niubi-headphones
 https://github.com/strat00s/atmega328p-lora-relay
+https://github.com/strayer/taira-keyboard
 https://github.com/strickyak/copico-bonobo
 https://github.com/strickyak/tfr9
 https://github.com/strooom/bme688-ml-v1-pcb
@@ -5339,6 +5388,7 @@ https://github.com/todbot/picotouch_pad
 https://github.com/todbot/qtpy_midibff
 https://github.com/todbot/sketching2025badge
 https://github.com/todbot/touchpads
+https://github.com/tofergregg/IBM-Wheelwriter-Hack
 https://github.com/togoreanbogdan/adau1446-dsp
 https://github.com/tolihub/cartreader
 https://github.com/tomas-kuchta-fpv/open-espilot
@@ -5397,6 +5447,7 @@ https://github.com/treenewbeer/kiterf
 https://github.com/trent3211/filter-freq-response-vis
 https://github.com/trentadosics/flashlight-pcb
 https://github.com/trevrosa/dpia
+https://github.com/trezor/trezor-hardware
 https://github.com/trihome/raspi_nervesbox
 https://github.com/trihome/raspi_pifa
 https://github.com/trihome/setoros_beadsee
@@ -5473,6 +5524,7 @@ https://github.com/ultimatehackingkeyboard/uhk60v1-electronics
 https://github.com/ultimaterobotics/uecg_v4_3_all
 https://github.com/ultimaterobotics/umyo_v3_1_pcb
 https://github.com/umamibeef/q605-power-supply
+https://github.com/umbertoragone/usbc-rtl-sdr
 https://github.com/un-simp/cuebox
 https://github.com/und-arc/irec-arc-2024
 https://github.com/unewhaven-cit/ectf-2024-devboard
@@ -5486,6 +5538,7 @@ https://github.com/universumgames/knock-knock-esp32
 https://github.com/unixware/nanoshield
 https://github.com/unl-rocketry/flight-computer
 https://github.com/unregist/mhi-ac-ctrl-esp32-c3
+https://github.com/unspecworks/delta-omega
 https://github.com/uob-hep-cad/cryosub
 https://github.com/upb-lea/lcb-cdb-01_dock_board
 https://github.com/upb-lea/lcb-cpb-01_pin_board
