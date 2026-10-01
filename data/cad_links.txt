@@ -1,0 +1,8 @@
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/CAPA.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/CAPPR.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/DIO.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/DIP.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/DIPS.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/QFN.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/RES.dxf
+https://github.com/bert/pcb-fpw/blob/c0e8da8782b7b89c0e479019f47b68431e565374/pixmaps/dxf/frame.dxf
