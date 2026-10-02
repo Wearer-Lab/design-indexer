@@ -753,6 +753,7 @@ https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy
 https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design
 https://github.com/SolderedElectronics/MPPT-Li-Ion-CN3791-charger-board-hardware-design
 https://github.com/SolderedElectronics/Methane--CNG-sensor-MQ4-breakout-qwiic-hardware-design
+https://github.com/SolderedElectronics/Methane--CNG-sensor-MQ4-breakout-with-easyC-hardware-design
 https://github.com/SolderedElectronics/Methane--Natural-gas-sensor-MQ214-breakout-hardware-design
 https://github.com/SolderedElectronics/Methane--Natural-gas-sensor-MQ214-breakout-with-easyC-hardware-design
 https://github.com/SolderedElectronics/MicroSD-breakout-hardware-design
@@ -761,9 +762,12 @@ https://github.com/SolderedElectronics/Mini-PCB-breadboard-hardware-design
 https://github.com/SolderedElectronics/Mini-PCB-breadboard-protoboard-hardware-design
 https://github.com/SolderedElectronics/Mini-low-power-TPS613222A-boost-converter-hardware-design
 https://github.com/SolderedElectronics/NRF24L01-adapter-for-Dasduino-boards-hardware-design
+https://github.com/SolderedElectronics/Natural-gas--LPG-sensor-MQ5-breakout-qwiic-hardware-design
+https://github.com/SolderedElectronics/Natural-gas--LPG-sensor-MQ5-breakout-with-easyC-hardware-design
 https://github.com/SolderedElectronics/Nokia-5110-Monochrome-LCD-breakout-hardware-design
 https://github.com/SolderedElectronics/Obstacle-sensor-qwiic-hardware-design
 https://github.com/SolderedElectronics/Obstacle-sensor-with-easyC-hardware-design
+https://github.com/SolderedElectronics/Ozone-sensor-MQ131-breakout-with-easyC-hardware-design
 https://github.com/SolderedElectronics/PCB-breadboard-hardware-design
 https://github.com/SolderedElectronics/PCB-breadboard-protoboard-hardware-design
 https://github.com/SolderedElectronics/PIR-Movement-sensor-board-hardware-design
@@ -785,6 +789,7 @@ https://github.com/SolderedElectronics/Smart-LED-WS2812B-Ring7-12-24-hardware-de
 https://github.com/SolderedElectronics/Smart-LED-WS2812B-Stick10-hardware-design
 https://github.com/SolderedElectronics/Soldered-Inkplate-5-Gen2-hardware-design
 https://github.com/SolderedElectronics/Soldered-Inkplate-6-MOTION-hardware-design
+https://github.com/SolderedElectronics/Soldered-Stepper-Motor-Driver-DRV8825-Board-hardware-design
 https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design
 https://github.com/SolderedElectronics/USB-Type-A-female-breakout-hardware-design
 https://github.com/SolderedElectronics/USB-Type-A-male-breakout-hardware-design
