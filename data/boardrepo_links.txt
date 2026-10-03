@@ -6679,6 +6679,7 @@ https://github.com/shimo8810/rust-board
 https://github.com/shimo8810/spectrum-analyzer
 https://github.com/shimotoriharuki/2021RoboTrace_Kicad
 https://github.com/shining-man/bsc_hw
+https://github.com/shinyak0gami/morse-code-pcb
 https://github.com/shishir-dey/pcb-custom-simm-40-rp2040
 https://github.com/shishir-dey/pcb-dev-dspic30f3011
 https://github.com/shishir-dey/pcb-dev-dspic30f6010a
