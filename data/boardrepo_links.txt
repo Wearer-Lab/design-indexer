@@ -2129,6 +2129,7 @@ https://github.com/christrotter/pedal-breakout-pcb
 https://github.com/christrotter/shift-register-spi-breakout-pcb
 https://github.com/chriz2600/picodreamcast
 https://github.com/chubbyginger/c4-clock
+https://github.com/chukwudalur/mcu-datalogger-4-layer
 https://github.com/churrosoft/dashdash
 https://github.com/churrosoft/openefi-pcb
 https://github.com/churrosoft/openefi-wideband
