@@ -5613,6 +5613,7 @@ https://github.com/octovolt/eurorackpower
 https://github.com/octovolt/tce
 https://github.com/odegroote/FGControlPCB
 https://github.com/odobot/pcb_design
+https://github.com/odriverobotics/ODriveHardware
 https://github.com/odz-ujf-av-cr/paper-airdos
 https://github.com/oe5rnl/ESP32-ATT-C-LVGL8
 https://github.com/oficinadesonido/miprimermodular
