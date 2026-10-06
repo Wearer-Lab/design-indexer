@@ -940,6 +940,7 @@ https://github.com/aaronc81/delta-pico
 https://github.com/aaronjackson/rfm69-pocsag
 https://github.com/aaronw2/t-962-temp-fan
 https://github.com/aawo/cparti-fpga-development-board
+https://github.com/abdalrahimnaser/homeassistant_keybridge
 https://github.com/abdontroche/infrared_gel_universal_dispenser
 https://github.com/abdulrhmnghanem/aquarius
 https://github.com/abend0c1/sieg-sc4-dsky
