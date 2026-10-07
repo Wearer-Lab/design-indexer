@@ -484,6 +484,7 @@ https://github.com/Konkzor/LinKey
 https://github.com/Kraken-Jokes/pteron-pcb
 https://github.com/Ktheara/big-7segment-display-arduino
 https://github.com/Kushal-Sachdeva78/RFID
+https://github.com/Kushal-Sachdeva78/VVS-Ballers-RoboCup
 https://github.com/LNH-team/Lost-NDS-TV
 https://github.com/LabVIEWCommunityTraining/RadxaX4-KiCAD-Files
 https://github.com/Ladniy/jiran-ble-lite
@@ -650,6 +651,7 @@ https://github.com/PatrickBaus/HP6632B_shorting_bar
 https://github.com/Pclika/mcp-platform
 https://github.com/Pealie/Thin-Pod-rev0.1
 https://github.com/Pedro-Seixas/Custom-Watch
+https://github.com/Perseus333/daedalus-keyboard
 https://github.com/Personal-Data-Acquisition/pda_hardware
 https://github.com/PfannenHans/fan32-hardware
 https://github.com/PiStorm/cm4board
@@ -692,6 +694,7 @@ https://github.com/RCMgames/RCM-Hardware-V4
 https://github.com/RICCIARDI-Adrien/Audio_Multiplexer
 https://github.com/RICCIARDI-Adrien/Microphone_Breakout_Board
 https://github.com/RICCIARDI-Adrien/Power_Button_Press_Automation
+https://github.com/RR-CREATOR/Veloce
 https://github.com/RadioThermal/RadioThermal_Soldering_OSHW
 https://github.com/RasmusKoit/pipar
 https://github.com/Real-Time-Kodi/Vindicktning
@@ -1241,6 +1244,7 @@ https://github.com/akinbender/open-smartwatch-spy
 https://github.com/akionu/mameTDT
 https://github.com/akirasan/lorawan-tracker-ttnmapper
 https://github.com/akita11/GroveNeoPixel
+https://github.com/akita11/PETS_USBpower
 https://github.com/akita11/PPGclip
 https://github.com/akita11/TinyDMM
 https://github.com/akita11/audioampunit
@@ -3095,6 +3099,7 @@ https://github.com/exploreembedded/tit-hardware
 https://github.com/explosion33/ares
 https://github.com/expoman/tdk_ics-43434_breakout
 https://github.com/extsui/gardeningboard
+https://github.com/exul/keyboards
 https://github.com/eylolaycan/stm32-f042f6-board
 https://github.com/ezequiel1611/horno_sdc
 https://github.com/ezerlonginus/msp430fr21_breakout
@@ -3472,6 +3477,7 @@ https://github.com/glitchineering/ExpansionBoardPCA6151
 https://github.com/glitchwrks/xt_ide
 https://github.com/glitchwrks/xt_ide_slot_8_support
 https://github.com/glocklueng/bms
+https://github.com/gloveboxes/Altair-8800-AI-Edition
 https://github.com/gmagician/oled-board
 https://github.com/gmcn42/clumsymidi
 https://github.com/gmh5225/scaffold
