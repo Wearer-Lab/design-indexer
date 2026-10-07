@@ -25,6 +25,7 @@ https://github.com/256foundation/emberone00-pcb
 https://github.com/2arc/ethercatslave
 https://github.com/2sayle/laera_kicad
 https://github.com/2technology/g-board
+https://github.com/30350n/spark-inducer
 https://github.com/3dpaulharvey/moteus
 https://github.com/3komma3volt/loraweatherstation_hardware
 https://github.com/3komma3volt/wled-controller
@@ -88,6 +89,7 @@ https://github.com/Adept666/defender_avante_X50BT_C2081U-KEY
 https://github.com/AethelVeritas/Klados
 https://github.com/AethelVeritas/Quaero
 https://github.com/Aghosh993/EE_HWDEV_KiCAD
+https://github.com/Ajakovski/Chess-Master-Board
 https://github.com/AkiyukiOkayasu/SWD2Conthrough
 https://github.com/Alberto0235/DRSSTC-Fiber-Optic-Interrupter
 https://github.com/AleBerta311/LightPCB
@@ -199,6 +201,7 @@ https://github.com/Bouni/WifiPowerbutton
 https://github.com/BrentSeidel/Circuits
 https://github.com/BrijModi/ESP32-Quadcopter-FlightController
 https://github.com/Brillar0101/NeuralCard
+https://github.com/Brillar0101/agentdeck
 https://github.com/BryceBeagle/fishstick
 https://github.com/Bugatsec/OpenDeck-RP2040-v0
 https://github.com/Bunny350/Non-motion-MCU
@@ -459,6 +462,7 @@ https://github.com/KabukiFlux/pi-rgb-cable-sync-mixer
 https://github.com/KabukiFlux/sega-gun-type2-protect-board-hotd2
 https://github.com/KadotaMasayuki/kicad-2026053101
 https://github.com/Kampi/BeeLight
+https://github.com/Kevinbot-Robotics/kevinbot_p2_board
 https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev
 https://github.com/KhaledGhanem0/MCU-Data-Logger-PCB
 https://github.com/KhaledGhanem0/PCB-Shield-Security-System
@@ -821,6 +825,7 @@ https://github.com/SolderedElectronics/WiFi-bit-hardware-design
 https://github.com/SolderedElectronics/easyC-hub-hardware-design
 https://github.com/SolderedElectronics/qwiic-hub-hardware-design
 https://github.com/SolidElectronics/Logitech_G11
+https://github.com/SolidEva/btrfld
 https://github.com/SonDinh23/IOTTeach
 https://github.com/SonOfCheevap/PierogiNixie-6
 https://github.com/Sonosus/VCDO
@@ -2495,6 +2500,7 @@ https://github.com/dawsonjon/101things
 https://github.com/dawsonjon/PicoRX
 https://github.com/dawsonjon/openxcvr
 https://github.com/daxxn/benchyreloaded
+https://github.com/db-ok/SofleChocWireless
 https://github.com/dbking77/robojoy_pcb
 https://github.com/dbroqua/dk60tp
 https://github.com/dbuchwald/6502
@@ -6804,6 +6810,7 @@ https://github.com/shufps/qaxe
 https://github.com/shuki25/stm32-snake-controller
 https://github.com/shunsei-t/hikorobo2026_xiao_esp32_baseboard
 https://github.com/shurik179/povstaff
+https://github.com/shurik179/yozh
 https://github.com/shvmm/espcb-bms-comms
 https://github.com/shxshxshxshx/vorontoolheadpcb
 https://github.com/shydql/project
