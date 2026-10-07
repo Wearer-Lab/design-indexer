@@ -199,6 +199,7 @@ https://github.com/Boardoza/Boardoza_W25N01GVZEIG_Serial_SLC_NAND_Flash_Breakout
 https://github.com/Boardoza/Boardoza_Water_Sensor_Analog_Water_Level_Detection_Breakout_Board
 https://github.com/Boardoza/Boardoza_XL6019E1_DC_DC_Boost_Breakout_Board
 https://github.com/Bouni/WifiPowerbutton
+https://github.com/Bread80/CPC_Keyboards
 https://github.com/BrentSeidel/Circuits
 https://github.com/BrijModi/ESP32-Quadcopter-FlightController
 https://github.com/Brillar0101/NeuralCard
@@ -210,6 +211,7 @@ https://github.com/ByPS128/RC-Light-T815-DKR-86
 https://github.com/CDFER/Melbourne-Live-Train-Map
 https://github.com/CDRXavier/XpandShield
 https://github.com/CGrassin/microscope_led_light_circuit
+https://github.com/CIRCUITSTATE/AQEYE-SB-D1
 https://github.com/CK20000/Isolated-Half-Bridge-Driver
 https://github.com/CK20000/STM32h743-devboard-betaflight
 https://github.com/CMB27/Nano2UNO-Adapter-5V
@@ -1539,6 +1541,7 @@ https://github.com/aronaut/lora-aprs-gateway-hat-for-raspberry-pi
 https://github.com/arrakark/irsensorarray
 https://github.com/arrow-air/project-caribou
 https://github.com/arrowtip/attiny-usb_pcb
+https://github.com/arrowtype/80forty
 https://github.com/arshsingh1602/smart-irrigation-system
 https://github.com/art-of-electronics/photo_table
 https://github.com/artfulbytes/nsumo_hardware
@@ -3353,6 +3356,7 @@ https://github.com/gadjet/multifunction-esp8266-sensor-board
 https://github.com/gadjet/window-door-sensor-version-5
 https://github.com/gaggi/27c160-tl866-adapter
 https://github.com/gajdi88/m-net-thermostat
+https://github.com/galopago/dil-breakout-pcb
 https://github.com/galopago/din-rail-circuits
 https://github.com/galopago/i2c-temp-probe-pcb
 https://github.com/galopago/panel-mount-7-segment-display
@@ -6547,6 +6551,7 @@ https://github.com/rpi-rev/quark
 https://github.com/rprouse/65c02_sbc
 https://github.com/rqcoon/help
 https://github.com/rr-creator/glare
+https://github.com/rrainey/DSKY-digital-indicator-replica
 https://github.com/rrainey/dsky_el_replica
 https://github.com/rschenk/re-gret
 https://github.com/rschlaikjer/hx4k-pmod
@@ -7343,6 +7348,7 @@ https://github.com/teapotlaboratories/bwlr1e
 https://github.com/teapotlaboratories/plantpal
 https://github.com/tearex-coder/hardwareddc
 https://github.com/tebl/Atari-Joystick-Tester
+https://github.com/tebl/RC6502-Apple-1-Replica
 https://github.com/tebl/RetroShield1802-PCB
 https://github.com/tebl/SMS2_Composite_Board
 https://github.com/tebl/rc1802-cosmac-elf
