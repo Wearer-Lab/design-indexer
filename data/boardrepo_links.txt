@@ -131,6 +131,7 @@ https://github.com/Biacco42/Ergo42
 https://github.com/BioARTS-Lab/Miniature_Microscope
 https://github.com/Black-FX/RP2040_Mouse_KiCAD
 https://github.com/Blaze-Pascal/EKA-PiF-MIFA
+https://github.com/Blaze-Pascal/Masters-Multi-Channel_DAQ
 https://github.com/BleepSound/ms20-vcf-double
 https://github.com/BleepSound/usb-distrib
 https://github.com/BlueSCSI/BlueSCSI-v2
@@ -379,6 +380,7 @@ https://github.com/GEIGEIGEIST/KLOR
 https://github.com/Gabse/PicKitUP
 https://github.com/Gallardo7761/nrf24l01_rpi_adapter
 https://github.com/GaudiLabs/OpenThereminV4_EurorackBreakout
+https://github.com/Gaurav-Giri/Wireless-Keyboard-kicad-Project-
 https://github.com/GewoonMaarten/fan-controller
 https://github.com/Ghous-Ali/Custom-ESP32-Dev-Board
 https://github.com/Gilbert-box/AC-DC-Converter-with-LM317
@@ -423,11 +425,13 @@ https://github.com/JAndersM/Z80_Labcomputer
 https://github.com/JVR11-minicomputer/jvr11-hardware
 https://github.com/JadenS180/spectrum-analyzer
 https://github.com/JamesB-Wood/UniQHW
+https://github.com/Jameswill-Winsock/Tempest
 https://github.com/JanKolibri/24V---12V-Tasmota-RGBW-Lighting-Controller-for-Home-Assistant
 https://github.com/Jana-Marie/CH330_Hardware
 https://github.com/Jana-Marie/LAEMP-Spoet
 https://github.com/Jana-Marie/USB-I2C-BRIDGE
 https://github.com/Jana-Marie/type-c-recessed
+https://github.com/Jarins/Solder-Paste-Dispenser-with-DCMotor
 https://github.com/JaswantBhartiya/esp32-laser-security
 https://github.com/Jcparkyn/dpoint
 https://github.com/Jerome-Graves/fabric-analyser
@@ -462,6 +466,7 @@ https://github.com/KabukiFlux/pi-rgb-cable-sync-mixer
 https://github.com/KabukiFlux/sega-gun-type2-protect-board-hotd2
 https://github.com/KadotaMasayuki/kicad-2026053101
 https://github.com/Kampi/BeeLight
+https://github.com/Kevinbot-Robotics/kevinbot_core
 https://github.com/Kevinbot-Robotics/kevinbot_p2_board
 https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev
 https://github.com/KhaledGhanem0/MCU-Data-Logger-PCB
@@ -470,6 +475,7 @@ https://github.com/Kiganpatel/Christmas-Tree-Light-Up-PCB
 https://github.com/Kirillr-Sibirski/hormesis-keyboard
 https://github.com/KokoSoft/BirbMesh-One
 https://github.com/Konkzor/LinKey
+https://github.com/Kraken-Jokes/pteron-pcb
 https://github.com/Ktheara/big-7segment-display-arduino
 https://github.com/Kushal-Sachdeva78/RFID
 https://github.com/LNH-team/Lost-NDS-TV
@@ -844,6 +850,7 @@ https://github.com/StuckAtPrototype/PCB_business_card_original
 https://github.com/Studented0/PCB-Business-Card
 https://github.com/Stustup/Audio-Input-Board
 https://github.com/Stustup/C-Audio-BHOA
+https://github.com/SunboX/Programmer_Clip
 https://github.com/SuperFola/floppy
 https://github.com/Supermanuu/BatterySwitcher
 https://github.com/Supertiger576/hcb-wifi-rp2040-devboard
@@ -1873,6 +1880,7 @@ https://github.com/bluetiger9/nrf53-wearable
 https://github.com/bluetiger9/scanmebadge
 https://github.com/blurpy/esp32-pcb-bitraf
 https://github.com/blus-audio/hardware
+https://github.com/bluthen/exposure_timing
 https://github.com/bmpc/esp8266_sprinkler_controller
 https://github.com/boardoza/boardoza_hx711_load_cell_amplifier_breakout_board
 https://github.com/boardoza/boardoza_sm351lt_magnetoresistive_sensor_breakout_board
@@ -2266,6 +2274,7 @@ https://github.com/coderarjob/signal.echo
 https://github.com/coderkevin/mini-nes
 https://github.com/coderlogy/counterspell-pcb
 https://github.com/coderosspirit/zachshackpad
+https://github.com/codetiger/GameTiger
 https://github.com/codetiger/jst-connector-breakout
 https://github.com/codetiger/powertiger
 https://github.com/codingcatgirl/split-flap-fae-pcb
@@ -2398,6 +2407,7 @@ https://github.com/cychitivav/pai
 https://github.com/cyclic007/scuffedbattlestation
 https://github.com/cyfdecyf/c-dux
 https://github.com/cyosp/cyths
+https://github.com/cypamigon/atmos_fc
 https://github.com/cypamigon/atmosfc
 https://github.com/czagrzebski/amc13xm0x-module
 https://github.com/czbiohub-sf/2023-facs-automation-pub
@@ -3636,6 +3646,7 @@ https://github.com/hartk1213/voron-hardware-sbpcb
 https://github.com/harveybates/mptt-solar-charger
 https://github.com/harveykandola/voyager97
 https://github.com/haswitchplate/haspone
+https://github.com/hatanoh/cscs_family
 https://github.com/hatlabs/halmet-hardware
 https://github.com/hatlabs/halser-hardware
 https://github.com/haum/ponghaum
@@ -4581,6 +4592,7 @@ https://github.com/lambdakb/trackball-lt6c
 https://github.com/lambdakb/trackball-lt7dk
 https://github.com/lampmerchant/tashrecorder
 https://github.com/lampmerchant/tashtwenty
+https://github.com/landonr/homeThing
 https://github.com/laneboysrc/nrf24l01-rc
 https://github.com/laneboysrc/rc-brake-lights
 https://github.com/laneboysrc/rc-light-controller
@@ -4804,6 +4816,7 @@ https://github.com/mabezdev/mkey
 https://github.com/macaba/TheManhattanToolkit
 https://github.com/machdyne/af
 https://github.com/mackenzie-norman/pcb-climber
+https://github.com/mackieks/Kawaii
 https://github.com/mackieks/nandflex
 https://github.com/macmenez/orbi-sat
 https://github.com/macnetic/rp2040-cubesat
@@ -4852,6 +4865,7 @@ https://github.com/makhowastaken/soft-latching-power-button
 https://github.com/makingdevices/bytes-counter
 https://github.com/makingdevices/stopwatch
 https://github.com/makinteract/tcis-music-board
+https://github.com/malcx95/ZeKeyboard
 https://github.com/malekitani/wirelesshardware
 https://github.com/malevolti/lyra
 https://github.com/mallo321123/scroll-wheel
@@ -5876,6 +5890,7 @@ https://github.com/pashutk/chocofi
 https://github.com/paspf/es-pcb-for-l476rg
 https://github.com/passinglink/pcb
 https://github.com/patelmikin14/Custom_GamePad
+https://github.com/path321/sound_spectrum_mcu
 https://github.com/patriceg/arduibodet
 https://github.com/patrickbaus/hp6632b_binding_posts
 https://github.com/patrickbaus/scan2000
@@ -6497,6 +6512,7 @@ https://github.com/roguepengu1n/zturn_breakout
 https://github.com/rohamid/chroma-pixel-h743
 https://github.com/rojar2006/plant-monitoring-system
 https://github.com/rojosinalma/soundspy
+https://github.com/rolandvs/Fischertechnik
 https://github.com/rolandvs/plc-14500
 https://github.com/rolfluc/RGB7Segment
 https://github.com/rolfluc/zenn
@@ -7294,6 +7310,7 @@ https://github.com/takedownchain23/opendrop
 https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board
 https://github.com/takeyamayuki/RCJ_Kanto_Soccer2017_Board
 https://github.com/takiszourntos/beaglebone_experiments
+https://github.com/takuhoTech/CelestNavi-Combo
 https://github.com/takurx/m5stack_detect_azimuth
 https://github.com/tana/balance-robot2
 https://github.com/tanaes/kilnhat
