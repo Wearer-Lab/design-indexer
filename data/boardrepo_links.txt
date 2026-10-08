@@ -541,6 +541,7 @@ https://github.com/Mowibox/chromapi_motherboard
 https://github.com/MrKohESP/Board
 https://github.com/MuffinByteLabs/esp32s3-plant-monitor
 https://github.com/Musab-Hassan/aurora_keyboard
+https://github.com/MythosMann/tg4x
 https://github.com/NAFT-LinkSpace/NRD_furnace
 https://github.com/NCSU-High-Powered-Rocketry-Club/FIRM-KiCad
 https://github.com/NCSU-High-Powered-Rocketry-Club/Launch-Relay-KiCAD
@@ -2388,6 +2389,7 @@ https://github.com/ctrlshiftbryan/ogre
 https://github.com/ctu-mrs/mrs_hw_uvdar
 https://github.com/ctu-vras/rcjoy
 https://github.com/cubitel/afm
+https://github.com/cuprice/HapticTouchTypingTrainer
 https://github.com/cuprum77/kicad-display-breakout-example
 https://github.com/cuprum77/lcd_driver
 https://github.com/cuprum77/reflowcontroller
@@ -5490,6 +5492,7 @@ https://github.com/n1kdo/antennaswitchcontrol
 https://github.com/n1kdo/bandselector
 https://github.com/n1kdo/rotator-controller-controller
 https://github.com/n8tlarsen/oxikey
+https://github.com/naaeell/Mist65
 https://github.com/nabijaczleweli/amplifeuer
 https://github.com/nablum/pedalshield-mega
 https://github.com/nabucasa/yellow
