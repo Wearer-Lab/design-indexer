@@ -1540,6 +1540,7 @@ https://github.com/arhollissr/duinoclone
 https://github.com/arhollissr/raspberrypihat
 https://github.com/arithmetics-its/fdc2x1x-capacitive-sensor
 https://github.com/arkadiuszmakarenko/riskymouse
+https://github.com/arkandas/esp32-led-controller
 https://github.com/arkandas/rp2350-macropad
 https://github.com/arleybls/ql-flex-memory
 https://github.com/armcoderbr/z80computer-release
