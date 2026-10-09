@@ -2370,6 +2370,7 @@ https://github.com/crsjones/68retro
 https://github.com/crsknr/hw_udsp-card
 https://github.com/crteensy/elrs-8285-1280-pwm-esc
 https://github.com/crteensy/hypaloc
+https://github.com/crteensy/yolo-fc
 https://github.com/crteensy/yolo-fc_1-3s
 https://github.com/crxwns/udb-s
 https://github.com/cryochasm/wii-sensor
@@ -5914,6 +5915,7 @@ https://github.com/pashutk/Cherry_MX_ULP
 https://github.com/pashutk/chocofi
 https://github.com/paspf/es-pcb-for-l476rg
 https://github.com/passinglink/pcb
+https://github.com/patdie421/pct-connectors-rebuild
 https://github.com/patelmikin14/Custom_GamePad
 https://github.com/path321/sound_spectrum_mcu
 https://github.com/patriceg/arduibodet
@@ -7235,6 +7237,7 @@ https://github.com/stkai/esp826blinkerxiaoai
 https://github.com/stnile/lprs2
 https://github.com/stockton-stem/stockton-stem-badge
 https://github.com/stoicat/timer-with-tm1637-and-arduino
+https://github.com/stonedDiscord/nonSNES
 https://github.com/storskegg/block-jan6418
 https://github.com/strangeparts/niubi-headphones
 https://github.com/strat00s/atmega328p-lora-relay
