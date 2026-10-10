@@ -1323,6 +1323,7 @@ https://github.com/alpenglowindustries/alpenglow_ispwpower_pcb
 https://github.com/alpenglowindustries/alpenglow_krampus_pcb
 https://github.com/alpenglowindustries/alpenglow_radiantrainbow_pcb
 https://github.com/alpenglowindustries/alpenglow_sunnysurprise_pcb
+https://github.com/alpha-137-036/RV523
 https://github.com/alpineot/pidriver
 https://github.com/alschwalm/piso
 https://github.com/altLab/AltoEspectro
