@@ -2881,6 +2881,7 @@ https://github.com/eggsworks/solanum
 https://github.com/eguardiandev/smartclock
 https://github.com/ehagerty/66-ekip
 https://github.com/ehime-iyokan/tinygo-keyboard
+https://github.com/eigenlucy/ESPHome-Panel
 https://github.com/eigenlucy/femtofox-mppt
 https://github.com/eigenlucy/micromppt
 https://github.com/eigenlucy/spacebridgehabpcb
@@ -6453,6 +6454,7 @@ https://github.com/richardmcmanusjr/fillerup
 https://github.com/richardneililagan/ergobox
 https://github.com/richardrozehnal/atari-sio2sd-mini
 https://github.com/richardrozehnal/gotek-floppy-disk-emulator-v2
+https://github.com/rick0x00/8bit-computer
 https://github.com/rick0x00/CDJC
 https://github.com/rick0x00/MCCB
 https://github.com/rick0x00/plc
@@ -7201,6 +7203,7 @@ https://github.com/stecman/avr-doomclock
 https://github.com/steelpuxnastik/shinsanwaswitch
 https://github.com/stefan-misik/ws2812b-light
 https://github.com/stefanhepp/design-libs
+https://github.com/stefanhepp/eOrgan
 https://github.com/stefanhepp/fancylights
 https://github.com/stefanhepp/homecontrol
 https://github.com/stefanhepp/myzynthian-box
