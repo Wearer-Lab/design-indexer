@@ -1632,6 +1632,7 @@ https://github.com/atoomnetmarc/iot12
 https://github.com/atoomnetmarc/yaafr
 https://github.com/atop8918/digitalwaters_wd_prototype
 https://github.com/atopile/bikey-wagon
+https://github.com/atopile/hil
 https://github.com/atsidaev/sonic-rec-9388
 https://github.com/attie/glasgow-can
 https://github.com/atulravi/mint-can-game
@@ -3170,6 +3171,7 @@ https://github.com/feastorg/Slice_SOLR
 https://github.com/feastorg/Slice_STPC
 https://github.com/feastorg/Slice_USBP
 https://github.com/feastorg/can-nano-shield
+https://github.com/feastorg/protokit
 https://github.com/feastorg/slice_dcmt
 https://github.com/feastorg/slice_step
 https://github.com/featurenab/smart-sensor-battery-pack
