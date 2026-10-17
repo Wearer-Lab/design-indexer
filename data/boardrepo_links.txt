@@ -554,6 +554,7 @@ https://github.com/Nicell/epaper-102
 https://github.com/NickStassen/nicklink
 https://github.com/Nieflav/kicad_project
 https://github.com/NightLaneOrg/nr-si468x-module
+https://github.com/NileDex/NIDX-PM-26
 https://github.com/No0ne/ps2x2pico
 https://github.com/NoctaLabs-Sh/Nocta-One-Hardware
 https://github.com/OLIMEX/A20-CAN
