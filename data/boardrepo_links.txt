@@ -84,6 +84,7 @@ https://github.com/ANTzacalie/esp32-shield-v1
 https://github.com/Aahil78/KB75
 https://github.com/Abdelrahman-Elnahrawy/KiCad
 https://github.com/AbstractMelon/OpenTag
+https://github.com/AbuPaad/Absolut-CAS
 https://github.com/AcubeSAT/satellite-s-band-antenna
 https://github.com/Adept666/attiny25-45-85_development_kit
 https://github.com/Adept666/defender_avante_X50BT_C2081U-KEY
