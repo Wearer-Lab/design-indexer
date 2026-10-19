@@ -639,6 +639,7 @@ https://github.com/OneAsmallFish/smart-fans-system
 https://github.com/Onuryrtsvr/Simple-12V-Regulated-Power-Supply
 https://github.com/Onuryrtsvr/Transistor-Based-Flip-Flop-PCB
 https://github.com/Open-Things-Network/lora-dev-board
+https://github.com/OpenDrone-hw/OpenESC-20x20
 https://github.com/OpenModbus/OM-16LED
 https://github.com/OpenModbus/OM-64DO
 https://github.com/OpenRemise/Sniffer
