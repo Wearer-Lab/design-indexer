@@ -101,6 +101,7 @@ https://github.com/Alireza2317/EEPROM_programmer
 https://github.com/Allexin/FakeCnD
 https://github.com/AlpenglowIndustries/Alpenglow_HappyRainCloud_PCB
 https://github.com/Aman-Kumar-19/usb-uart-cp2102-kicad
+https://github.com/AnasMalas/pcb-edge-usb-c
 https://github.com/AndrophageKB/androphage
 https://github.com/AndrzejKalinowski/cubeeee_4x4x4_led_cube
 https://github.com/AntoninPvr/F1Tenth_powerboard
