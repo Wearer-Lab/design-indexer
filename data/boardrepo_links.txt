@@ -119,6 +119,7 @@ https://github.com/AstroMeters/AMFOC01
 https://github.com/Atomicbeast101/esp-breadboard-expander
 https://github.com/AugustoS97/RPi-accessories
 https://github.com/AungChoOo/Multi-Sensor
+https://github.com/Axel051171/UniversalFluxInterface
 https://github.com/Ayarfox/BusinessCard
 https://github.com/AzatKaya1/KiCad-ESP32-S3-Custom-DevBoard
 https://github.com/B1QUAD/spaceInvaderPCBBadge
