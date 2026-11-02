@@ -1899,6 +1899,8 @@ https://github.com/bluerobotics/I2C-Level-Converter
 https://github.com/bluerobotics/fathom-x
 https://github.com/bluesatunsw/rocketry-datasat
 https://github.com/blueskull/picogate
+https://github.com/bluesmart-robotics/Bsr-drive
+https://github.com/bluesmart-robotics/batterie
 https://github.com/blueteamvillage/btv_dc32_badge
 https://github.com/bluetiger9/breeze-smartsensorhub
 https://github.com/bluetiger9/coolswitch
