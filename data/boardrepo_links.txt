@@ -1006,6 +1006,7 @@ https://github.com/Qeps/USB-hub-project
 https://github.com/Qeteshpony/AudioSwitch
 https://github.com/Qeteshpony/BinaryVoltageIndicator
 https://github.com/Qeteshpony/BreadBoard-Power
+https://github.com/Qeteshpony/CI-Test
 https://github.com/Qeteshpony/CN105
 https://github.com/Qeteshpony/Current-Probe
 https://github.com/Qeteshpony/Doorbell2Thread
@@ -1018,6 +1019,8 @@ https://github.com/Qeteshpony/TwinBusExpander
 https://github.com/Qeteshpony/USB-C-Cable-Tester
 https://github.com/Qeteshpony/climatedisplay
 https://github.com/QinCai-rui/SenseNest
+https://github.com/Quantum-Electronic-Devices/One-Inch-Photodetector
+https://github.com/RASuniandes/Taller-de-PCBs-KiCAD
 https://github.com/RCMgames/BSED
 https://github.com/RCMgames/RCM-Hardware-Nibble
 https://github.com/RCMgames/RCM-Hardware-V4
@@ -7302,12 +7305,15 @@ https://github.com/qfreiman/asm1061
 https://github.com/qfreiman/qsbc-zero
 https://github.com/qincai-rui/duckydk-mtr-1
 https://github.com/qiwenmin/qrp-hpf
+https://github.com/qst0528/kicad-cf_ide
+https://github.com/qst0528/pcb-9801ux_sound_hack-kicad
 https://github.com/quantum-electronic-devices/ocxo_breakout
 https://github.com/quantumvillage/uncutgem
 https://github.com/quard/mlight
 https://github.com/quark-works/openrectangletemplate
 https://github.com/quark-works/qs-hub-db
 https://github.com/quarren42/spin
+https://github.com/qubyte/future-gadget-10
 https://github.com/queens-rocket-engineering-team/av-prop
 https://github.com/quicklogic-corp/qomu-dev-board
 https://github.com/quicklogic-corp/quick-feather-dev-board
@@ -7329,6 +7335,7 @@ https://github.com/r-pv/STM32F405RGT6_STUnoPlus
 https://github.com/r-pv/rSTM32F030C8T6_ProMiniPlus
 https://github.com/r-pv/stm32f030k6
 https://github.com/r0oland/bioterio
+https://github.com/r0oland/laserhannes_kicad_electronics
 https://github.com/r1me/KicadDrawBridgePlus
 https://github.com/r1me/Simple-LPTsnd-Kicad
 https://github.com/r4hulrr/ausign
@@ -7346,6 +7353,7 @@ https://github.com/rac2030/breakout-boards
 https://github.com/racerxdl/kicad-board-collection
 https://github.com/racerxdl/picohome
 https://github.com/rack-robotics/powercore-v3
+https://github.com/radiann-kswg/RasPiOS_UnityConsole
 https://github.com/radio-satellites/os-41_pcb
 https://github.com/radioclub/projects
 https://github.com/radiolib-org/RadioHAT
@@ -7364,6 +7372,7 @@ https://github.com/rainerhassel/MisterClippy
 https://github.com/rainkeebs/choc40
 https://github.com/rainkeebs/minibaen-r2
 https://github.com/rajdeep13-coder/Astable-Multivibrator-using-555-Timer
+https://github.com/rajkumar-rajendran-raj/KiCAD-Designs
 https://github.com/rak-phillip/lmn-3-ecad
 https://github.com/rakshitdarji007/macropadd
 https://github.com/ralim/potato
@@ -7374,6 +7383,7 @@ https://github.com/rallepalaveev/a2pico
 https://github.com/rambo/nfc_lock
 https://github.com/ramonimbao/c-13x-pcb
 https://github.com/ramonimbao/stm32_watch
+https://github.com/ramuroy/LM2596-5V-Buck-Converter-PCB-Design
 https://github.com/ramuroy/servo-tester-ne555
 https://github.com/randomdelta6/9w_led_driver_pcb
 https://github.com/randomdelta6/atx12vo-5vsb-to-12vsb-adapter
@@ -7386,6 +7396,7 @@ https://github.com/raonslab2/fcboardkicad
 https://github.com/raptorlightning/i2s-hat
 https://github.com/rasberryrabbit/pic12f675mppt
 https://github.com/raspberrypipress/raspberry-pi-pico-with-kicad
+https://github.com/raspibo/bluecane
 https://github.com/rasusmilch/pt100_mesh_datalogger
 https://github.com/raszpl/440BX
 https://github.com/raszpl/fic-486-gac-2-cache-module
@@ -7402,6 +7413,7 @@ https://github.com/ravinrabbid/doncon2040
 https://github.com/rawrex/krylo
 https://github.com/rbaron/b-parasite
 https://github.com/rbtsco/stickhub
+https://github.com/rburkholder/kicad_bb_7ani_voltage_divider
 https://github.com/rcarmo/openscad-minidexed-rpi3a
 https://github.com/rcls/discus
 https://github.com/rcmgames/rcm-hardware-byte
