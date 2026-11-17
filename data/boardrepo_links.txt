@@ -6867,6 +6867,7 @@ https://github.com/openeew/openeew-sensor
 https://github.com/openelectronicslab/openhardwareholtermonitor
 https://github.com/openenergymonitor/emonth3
 https://github.com/openhimerlab/carelite-gpib
+https://github.com/openinvertergateway/openinvertergateway
 https://github.com/openipc/hardware
 https://github.com/openknx/oam-up1-8xsensor
 https://github.com/openlightingproject/rp2040-dmxsun
