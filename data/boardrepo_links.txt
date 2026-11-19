@@ -1351,6 +1351,7 @@ https://github.com/UzixLS/zxuno1010-board
 https://github.com/VTNSI-SDA/kicad_pga103
 https://github.com/VasilKalchev/8bit-quad.hw
 https://github.com/Ventratrat/KiCad-proj
+https://github.com/Vickyvikranth0712/nRF52-Water-Quality-Monitoring-Platform
 https://github.com/VidetteMakes/ValpoFilamentRecycler09
 https://github.com/VinnyCordeiro/BT_DC_motor_board
 https://github.com/Vitorbnc/haxmark460
