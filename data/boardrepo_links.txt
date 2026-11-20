@@ -1652,6 +1652,7 @@ https://github.com/adnksharp/piSide6-dht-graph
 https://github.com/adnksharp/pySide6-forward-reverse-motor
 https://github.com/adnksharp/pySide6-joystick-tester
 https://github.com/adnksharp/pyside6-door
+https://github.com/adpys24-code/USB-Cable-Checker
 https://github.com/adriansalamon/clock-clock-24
 https://github.com/adrienkohlbecker/atf1504_plcc44_breakout
 https://github.com/adrienles/stmblueline
