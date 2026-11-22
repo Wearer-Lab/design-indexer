@@ -1385,6 +1385,7 @@ https://github.com/YUKESH0620/Motor_Health_Monitoring_8051_PCB
 https://github.com/YamamotoWorksDev/GLPMJ_One
 https://github.com/YamanSeyravan/UnderControl_Hardware_Design
 https://github.com/YannickKoenig/DIY-Laboratory-Power-Supply
+https://github.com/YashKarthik/where_is_my_ion
 https://github.com/Younesbahi/Keychain-PCB-v1
 https://github.com/YousefAliAicha/aegis-embedded-system
 https://github.com/YousefAliAicha/sentinel-arduino-firmware
