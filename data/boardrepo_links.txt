@@ -5814,6 +5814,7 @@ https://github.com/madebyrobq/ortho4x10tkl
 https://github.com/maded2/68000
 https://github.com/maelh/radio-frequency-prototype-boards
 https://github.com/mafe72/27c160-tl866-adapter
+https://github.com/mafiltenborg/openinvertergatewaySA
 https://github.com/magicninja7/boop
 https://github.com/magicninja7/music-macropad
 https://github.com/magictintin/chriskeyboards
