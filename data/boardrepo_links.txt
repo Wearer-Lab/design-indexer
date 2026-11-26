@@ -938,6 +938,7 @@ https://github.com/OLIMEX/iMX8MP-SOM-EVB
 https://github.com/OSHPark/flextester
 https://github.com/OUXT-Polaris/perception-array-interface-board
 https://github.com/OUXT-Polaris/plug-in-supply-distributor
+https://github.com/OatMealXXII/Project_Zeta
 https://github.com/OberTechniks/analog-controller
 https://github.com/OberTechniks/rpi_sensor_hat
 https://github.com/Obijuan/Learn-Kicad
@@ -1113,6 +1114,9 @@ https://github.com/SepticElectronics/High-Speed-Timer
 https://github.com/Seth-Andrei/KiCad_555_Timer_Clock_demo
 https://github.com/Seth-Andrei/KiCad_Traffic_Light_Controller_guide
 https://github.com/SeungheonOh/Satellite-OrthoLinear-Keyboard
+https://github.com/Shaurya-Ashu/MOTOR-BOARD
+https://github.com/Shaurya-Ashu/Og-HackPad
+https://github.com/Shaurya-Ashu/TYPO
 https://github.com/Sheepy3/FightPad_MICRO
 https://github.com/ShreshtChopra1/CarStatTracker
 https://github.com/Shtaiven/restive-engines-keyboards
@@ -7739,6 +7743,7 @@ https://github.com/rschenk/re-gret
 https://github.com/rschlaikjer/hx4k-pmod
 https://github.com/rtaverah/DIY-EFI_TinyWB_Kicad
 https://github.com/rtimothyedwards/chipalooza_projects_1
+https://github.com/rtlopez/esp-fc
 https://github.com/rtyle/ping4pow
 https://github.com/rubenbaldewsing/RPDAP
 https://github.com/rubenbaldewsing/odroid-h3-mitx-adapter
