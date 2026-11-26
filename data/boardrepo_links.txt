@@ -1700,6 +1700,15 @@ https://github.com/ahessling/activeload
 https://github.com/ahillbom/tougherpowermonitor-hw
 https://github.com/ahmsville/magnetic_rotary_encoding
 https://github.com/ahnaf-tahmid-chowdhury/SmartGeiger
+https://github.com/ahsanu123/Momos
+https://github.com/ahsanu123/ams
+https://github.com/ahsanu123/bis-bajak-laut
+https://github.com/ahsanu123/clsm
+https://github.com/ahsanu123/crumbs
+https://github.com/ahsanu123/ireng
+https://github.com/ahsanu123/iwaki
+https://github.com/ahsanu123/mesinCuciTangan
+https://github.com/ahsanu123/mkl
 https://github.com/ai03-2725/Summit
 https://github.com/ai03-2725/celestine
 https://github.com/ai03-2725/fan-vent-blocker
@@ -5442,6 +5451,7 @@ https://github.com/kmezynski/stm8_development_board
 https://github.com/kmzbrnoi/dc01
 https://github.com/kmzbrnoi/tod
 https://github.com/knaruo/barracuda
+https://github.com/knifter/DualPID
 https://github.com/knightfox75/ps2_mouse_to_serial_port
 https://github.com/knivier/skycell
 https://github.com/knonyks/onyks-atxmega256-devboard
@@ -6726,6 +6736,7 @@ https://github.com/northernpaws/catalina
 https://github.com/not-forest/rp2040-12v-motor-regulator
 https://github.com/not-rng/openhd-cm4-carrier-board
 https://github.com/not-surt/KiCad-Projects
+https://github.com/notazizelse/macropad
 https://github.com/noteolvides/cubetouch
 https://github.com/nova38/raven_wing
 https://github.com/novi/4004mainboard
@@ -9289,6 +9300,7 @@ https://github.com/wa1hco/rotator-controller-v2
 https://github.com/wa1hco/so4r_interlock
 https://github.com/wa1tee/orthokeyboard75
 https://github.com/waerhert/esp32-thermostat
+https://github.com/wagiminator/CH552-DAPLink
 https://github.com/wallaceowen/filascale-s
 https://github.com/wallaceowen/ptdriver
 https://github.com/wallalex0/SV18W-6S6P-2323
@@ -9644,6 +9656,7 @@ https://github.com/zoroseerus/g305lithiummodkit
 https://github.com/zortness/ti92-redux
 https://github.com/zosko/noahfc
 https://github.com/zouppen/pumpunjuksautin
+https://github.com/zpg6/esp32-sdcard
 https://github.com/zschunky/magicflash64
 https://github.com/zswatch/watch-devkit-hw
 https://github.com/ztardik/flatpack2
