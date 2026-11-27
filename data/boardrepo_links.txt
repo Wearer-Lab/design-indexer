@@ -605,6 +605,7 @@ https://github.com/Hirusha785/12V-5A-Isolated-Flyback-SMPS-KiCad
 https://github.com/Hitmare/kicad_projects
 https://github.com/HongoMCC/ch552t_tinypad
 https://github.com/Honzaaa45/cube-hologram-pcb
+https://github.com/Hummelkoenig/Robotarm_Driver
 https://github.com/HumphreyKwok/pico04
 https://github.com/Hunter1753/nova-catalyst
 https://github.com/HussainAhmed11/PCB
