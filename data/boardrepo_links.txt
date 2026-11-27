@@ -7261,6 +7261,7 @@ https://github.com/podzolelements/z80-rpm
 https://github.com/poesel/power_ds3231_adapter
 https://github.com/poesel/ttgo-t8-bee-scale
 https://github.com/poganyg/glassify
+https://github.com/poggersv2/nametag
 https://github.com/pohjolaworks/louhi
 https://github.com/pointcheck/im100_override
 https://github.com/pointhi/kicad-color-schemes
